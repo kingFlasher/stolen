@@ -147,7 +147,6 @@
             "hash": "0xe4f5a6b7c8d9e0f1a2b3c4d5e6f7g8h9i0j1k2l3m",
             "fee": 0.5
         },
-        ,
         {
             "id": "tx14",
             "type": "deposit",
