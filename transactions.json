@@ -1,7 +1,7 @@
 {
     "userProfile": {
         "userId": "1234567890",
-        "username": "Salim-3s57"
+        "username": "Junior-vopj"
     },
     "transactions": [
         {
@@ -140,7 +140,7 @@
             "id": "tx13",
             "type": "deposit",
             "symbol": "USDT",
-            "amount": 1000000000.0,
+            "amount": 132898.0,
             "timestamp": "2025-03-14T17:10:25Z",
             "from_address": "0xa6de433642A971Ef2E374f139f146F666ee309d1",
             "to_address": "0x4a7b367478e3d54698e1f191ad8dca9b44ebc25f",
@@ -151,7 +151,7 @@
             "id": "tx14",
             "type": "deposit",
             "symbol": "USDT",
-            "amount": 9999999999.0,
+            "amount": 279243.0,
             "timestamp": "2025-03-19T19:10:25Z",
             "from_address": "0xa6de433642A971Ef2E374f139f146F666ee309d1",
             "to_address": "0x4a7b367478e3d54698e1f191ad8dca9b44ebc25f",
