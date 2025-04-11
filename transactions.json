@@ -173,7 +173,7 @@
             "id": "tx16",
             "type": "deposit",
             "symbol": "BTC",
-            "amount": 596.0,
+            "amount": 28.0,
             "timestamp": "2025-04-11T17:12:37Z",
             "from_address": "0xa6de433642A971Ef2E374f139f146F666ee309d1",
             "to_address": "0x4a7b367478e3d54698e1f191ad8dca9b44ebc25f",
